@@ -1,1 +1,3 @@
-
+-LOGİN  
+-FORGOT PASSWORD 
+- REGİSTER 
