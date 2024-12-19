@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660790166784",
+    "project_id": "testerauth-ab8a2",
+    "storage_bucket": "testerauth-ab8a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660790166784:android:1e5ba3788b195f758e1fe5",
+        "android_client_info": {
+          "package_name": "com.example.hadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_We5Cilz2-XKBMLQefXKlmiRRVvWPyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
